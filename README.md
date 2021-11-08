@@ -1,3 +1,12 @@
+# Tourney Matches
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). (see [Getting Started with Create React App](#getting-started-with-create-react-app) section for info)
+
+## Final Product
+This project is about creating buttons that will change their state when we interact with them!
+The end result looks like this:
+!["Fancy Buttons"](https://github.com/bbjarvis/tourney-matches/blob/main/docs/Fancy%Buttons.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
